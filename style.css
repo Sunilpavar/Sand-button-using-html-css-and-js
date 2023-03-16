@@ -1,0 +1,19 @@
+*{
+    padding: 0;    
+    margin: 0;
+}
+body{
+    background: rgb(250, 245, 204);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.wrapper{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    box-shadow: 1px 4px 7px black;
+    background: linear-gradient(to bottom right, #f3bcf0, #fa6c97);
+}
